@@ -1,4 +1,4 @@
-# api-banderas-udemy
+# vue3-vuex-with-compositionapi
 
 ## Project setup
 ```
